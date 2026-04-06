@@ -5,12 +5,14 @@
         <meta charset="utf-8">
         <link rel="stylesheet" href="style.css">
     </head>
+
     <body>
         <main>
             <div class="hero">
-              <img src="profile.jpeg" alt="Aswathy">
+              <img src="assets/profile.jpeg" alt="Aswathy">
 
               <div class="hero-text">
+                <p id="greeting"></p>
                 <h1>Aswathy Santhosh</h1>
                 <p>Aspiring Full Stack + AI Developer</p>
               </div>
@@ -33,7 +35,12 @@
               <h2>Projects</h2>
               <p>Coming soon....</p>
             </section>
+            <input type="text" id="taskInput" placeholder="Enter a task">
+              <button onclick="addTask()">Add</button>
+
+              <ul id="taskList"></ul>
         </div>
         </main>
+        <script src="script.js"></script>
       </body>
 </html>

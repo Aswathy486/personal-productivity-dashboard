@@ -1,27 +1,27 @@
 # Smart Personal Dashboard
 
-A simple personal dashboard built using HTML and CSS as part of my Full Stack + AI learning journey.
+An interactive personal dashboard built using HTML, CSS, and JavaScript.
 
 ## 🚀 Features
+- Dynamic greeting based on time
+- Task manager (add tasks dynamically)
 - Clean and responsive UI
-- Card-based layout
-- Profile section with image
-- Styled skills section
+- Profile section with styled layout
 
 ## 🛠️ Tech Stack
 - HTML
 - CSS (Flexbox)
+- JavaScript (DOM manipulation)
 
 ## 📈 What I Learned
-- Structuring web pages using HTML
-- Designing layouts using Flexbox
-- Creating consistent UI using a color system
-- Improving user interface with spacing and hierarchy
+- Connecting JavaScript with UI elements
+- DOM manipulation and event handling
+- Building interactive features from scratch
 
-## 🔗 Live Preview
+## 🔗 Live Demo
 (Coming soon)
 
 ## 📌 Future Improvements
-- Add JavaScript interactivity
-- Integrate APIs (weather, tasks)
-- Improve UI animations
+- Add task deletion and editing
+- Store tasks using localStorage
+- Integrate APIs (weather, etc.)
