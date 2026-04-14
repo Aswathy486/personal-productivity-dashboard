@@ -1,27 +1,25 @@
-# Smart Personal Dashboard
+# Personal Productivity Dashboard
 
-An interactive personal dashboard built using HTML, CSS, and JavaScript.
+A responsive frontend web application built using HTML, CSS, and JavaScript that helps users manage daily tasks and view live weather information.
 
-## 🚀 Features
-- Dynamic greeting based on time
-- Task manager (add tasks dynamically)
-- Clean and responsive UI
-- Profile section with styled layout
+## Features
+- Dynamic greeting based on current time
+- Add, edit, delete, and mark tasks as completed
+- Persistent task storage using localStorage
+- Live weather search using OpenWeather API
+- Error handling and loading state for API requests
+- Responsive and clean UI
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML
-- CSS (Flexbox)
-- JavaScript (DOM manipulation)
+- CSS
+- JavaScript
+- OpenWeather API
+- localStorage
 
-## 📈 What I Learned
-- Connecting JavaScript with UI elements
-- DOM manipulation and event handling
-- Building interactive features from scratch
-
-## 🔗 Live Demo
-(Coming soon)
-
-## 📌 Future Improvements
-- Add task deletion and editing
-- Store tasks using localStorage
-- Integrate APIs (weather, etc.)
+## Key Learning Outcomes
+- DOM manipulation
+- Event handling
+- State persistence using localStorage
+- API integration using fetch and async/await
+- Building responsive frontend interfaces
